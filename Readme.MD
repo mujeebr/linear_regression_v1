@@ -7,3 +7,4 @@ venv\Scripts\activate  - for windows
 -- git status is to check for the files that are not moved to staging aread and commited
 -- git add . to move it to the staging area
 -- commit area - git commit -m "linear regression v1"
+git clone https://github.com/mujeebr/linear_regression_v1.git
